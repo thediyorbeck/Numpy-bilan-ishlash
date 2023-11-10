@@ -1,2 +1,2 @@
 # Numpy-bilan-ishlash
-Data Science Praktikum Numpy darslari bo'yicha mashqlar
+Mohirdevning Data Science va Sun'iy intellekt kursi,  Numpy darslari bo'yicha qilgan mashqlarim
